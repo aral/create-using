@@ -1,3 +1,19 @@
+## start
+
+> Soft fork of [tiged](https://github.com/tiged/tiged) with an easier to remember/more semantic name.
+
+Usage example:
+
+```
+npx start small-tech/site-vite-svelte my-project-name
+```
+
+(That will download the [Vite + Svelte starter template for Site.js](https://github.com/small-tech/site-vite-svelte) into a directory called `my-project-name`.)
+
+Please file issues, etc., in the [tiged](https://github.com/tiged/tiged) repo.
+
+## Tiged
+
 > Community driven fork of [degit](https://github.com/Rich-Harris/degit) because it isn't being maintained. We will be willing to give control of this repository to Rich Harris if he becomes active.
 
 # tiged — straightforward project scaffolding
