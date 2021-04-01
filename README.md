@@ -1,14 +1,16 @@
-## start
+## download-module
 
 > Soft fork of [tiged](https://github.com/tiged/tiged) with an easier to remember/more semantic name.
 
 Usage example:
 
 ```
-npx start small-tech/site-vite-svelte my-project-name
+npx download-module small-tech/site-vite-svelte my-project-name
 ```
 
-(That will download the [Vite + Svelte starter template for Site.js](https://github.com/small-tech/site-vite-svelte) into a directory called `my-project-name`.)
+This will download the [Vite + Svelte starter template for Site.js](https://github.com/small-tech/site-vite-svelte) into a directory called `my-project-name`.
+
+(Why isn’t this a core command in npx? e.g., `npx install …` / `npx i …`) 🤔️
 
 Please file issues, etc., in the [tiged](https://github.com/tiged/tiged) repo.
 
