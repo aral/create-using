@@ -1,5 +1,5 @@
 {
-	"name": "download-module",
+	"name": "fetch-from",
 	"version": "2.10.2",
 	"engines": {
 		"node": ">=8.0.0"

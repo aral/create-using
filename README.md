@@ -1,11 +1,11 @@
-## download-module
+## fetch-from
 
 > Soft fork of [tiged](https://github.com/tiged/tiged) with an easier to remember/more semantic name.
 
 Usage example:
 
 ```
-npx download-module small-tech/site-vite-svelte my-project-name
+npx fetch-from small-tech/site-vite-svelte my-project-name
 ```
 
 This will download the [Vite + Svelte starter template for Site.js](https://github.com/small-tech/site-vite-svelte) into a directory called `my-project-name`.
