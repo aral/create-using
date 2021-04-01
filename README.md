@@ -1,16 +1,14 @@
-## fetch-from
+## create-using
 
-> Soft fork of [tiged](https://github.com/tiged/tiged) with an easier to remember/more semantic name.
+> Soft fork of [tiged](https://github.com/tiged/tiged) with easier to remember/more semantic usage.
 
 Usage example:
 
 ```
-npx fetch-from small-tech/site-vite-svelte my-project-name
+npm init using small-tech/site-vite-svelte my-project
 ```
 
 This will download the [Vite + Svelte starter template for Site.js](https://github.com/small-tech/site-vite-svelte) into a directory called `my-project-name`.
-
-(Why isn’t this a core command in npx? e.g., `npx install …` / `npx i …`) 🤔️
 
 Please file issues, etc., in the [tiged](https://github.com/tiged/tiged) repo.
 
